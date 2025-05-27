@@ -1,0 +1,550 @@
+SECTOR,SIZE_BUCKET,MOMENTUM_CLASS,ORG_COUNT,AVG_REVENUE,AVG_PROGRAM_PCT,PCT_HOLLOW,PCT_TURBULENT
+Animal Welfare,Large,turbulent,2,75432,0.0,50.0,100.0
+Animal Welfare,Large,weak_down,1,4522391,0.0,100.0,0.0
+Animal Welfare,Major,stable,1,9087480,34.2,0.0,0.0
+Animal Welfare,Major,strong_momentum_up,2,19436798,28.4,50.0,0.0
+Animal Welfare,Major,weak_up,1,9542745,26.1,0.0,0.0
+Animal Welfare,Medium,strong_momentum_up,2,491326,23.0,0.0,0.0
+Animal Welfare,Medium,turbulent,6,128347,25.0,16.7,100.0
+Animal Welfare,Micro,stable,1,53075,0.0,100.0,0.0
+Animal Welfare,Micro,strong_momentum_up,1,74270,0.0,100.0,0.0
+Animal Welfare,Micro,weak_up,1,45033,0.0,0.0,0.0
+Animal Welfare,Small,stable,2,65456,0.0,100.0,0.0
+Animal Welfare,Small,strong_momentum_up,3,165140,0.0,100.0,0.0
+Animal Welfare,Small,turbulent,7,143508,0.6,71.4,100.0
+Animal Welfare,Small,uncategorized,2,38677,0.0,50.0,0.0
+Animal Welfare,Small,weak_down,1,34459,0.0,0.0,0.0
+Animal Welfare,Small,weak_up,4,76129,0.0,75.0,0.0
+Arts & Culture,Large,stable,3,886247,28.0,33.3,0.0
+Arts & Culture,Large,strong_momentum_up,6,1705758,8.0,83.3,0.0
+Arts & Culture,Large,turbulent,17,2709095,9.8,82.4,100.0
+Arts & Culture,Large,uncategorized,5,1149521,35.7,20.0,0.0
+Arts & Culture,Large,weak_down,4,3358328,17.7,50.0,0.0
+Arts & Culture,Large,weak_up,3,2899226,15.9,33.3,0.0
+Arts & Culture,Major,stable,1,35674466,18.3,100.0,0.0
+Arts & Culture,Major,strong_momentum_up,1,7306505,18.6,100.0,0.0
+Arts & Culture,Major,turbulent,1,34546873,50.7,0.0,100.0
+Arts & Culture,Major,uncategorized,4,32114237,38.6,0.0,0.0
+Arts & Culture,Major,weak_down,1,13544189,14.6,100.0,0.0
+Arts & Culture,Major,weak_up,2,48741832,23.4,0.0,0.0
+Arts & Culture,Medium,stable,5,330793,33.0,20.0,0.0
+Arts & Culture,Medium,strong_momentum_down,1,656627,10.3,100.0,0.0
+Arts & Culture,Medium,strong_momentum_up,8,506604,26.4,62.5,0.0
+Arts & Culture,Medium,turbulent,21,519581,10.6,57.1,100.0
+Arts & Culture,Medium,uncategorized,9,403336,40.6,33.3,0.0
+Arts & Culture,Medium,weak_down,4,331946,26.7,75.0,0.0
+Arts & Culture,Medium,weak_up,5,388261,25.2,60.0,0.0
+Arts & Culture,Micro,stable,2,25235,0.0,0.0,0.0
+Arts & Culture,Micro,strong_momentum_down,2,32926,0.0,50.0,0.0
+Arts & Culture,Micro,turbulent,19,67171,4.1,15.8,100.0
+Arts & Culture,Micro,uncategorized,2,28804,0.0,0.0,0.0
+Arts & Culture,Micro,weak_down,2,21525,0.0,0.0,0.0
+Arts & Culture,Small,stable,3,96344,0.0,100.0,0.0
+Arts & Culture,Small,strong_momentum_down,1,54226,0.0,100.0,0.0
+Arts & Culture,Small,strong_momentum_up,4,156063,15.6,75.0,0.0
+Arts & Culture,Small,turbulent,22,103206,5.9,63.6,100.0
+Arts & Culture,Small,uncategorized,7,136713,6.4,85.7,0.0
+Arts & Culture,Small,weak_down,7,196153,19.1,71.4,0.0
+Arts & Culture,Small,weak_up,6,334694,20.3,50.0,0.0
+Civil Rights & Advocacy,Large,turbulent,3,3200049,9.8,100.0,100.0
+Civil Rights & Advocacy,Medium,turbulent,2,909492,0.0,100.0,100.0
+Civil Rights & Advocacy,Medium,uncategorized,1,961001,0.0,100.0,0.0
+Civil Rights & Advocacy,Micro,turbulent,2,137091,0.0,50.0,100.0
+Civil Rights & Advocacy,Small,turbulent,1,158729,0.0,100.0,100.0
+Community Development,Large,stable,4,1919664,13.7,50.0,0.0
+Community Development,Large,strong_momentum_down,1,309616,101.6,0.0,0.0
+Community Development,Large,strong_momentum_up,3,1720676,40.1,33.3,0.0
+Community Development,Large,turbulent,13,2393633,27.3,61.5,100.0
+Community Development,Large,weak_down,7,2439834,37.6,57.1,0.0
+Community Development,Large,weak_up,4,1640570,11.1,75.0,0.0
+Community Development,Major,strong_momentum_up,1,13086181,99.9,0.0,0.0
+Community Development,Major,uncategorized,3,7888895,50.6,0.0,0.0
+Community Development,Major,weak_up,1,22959509,0.0,100.0,0.0
+Community Development,Medium,stable,1,113138,0.0,100.0,0.0
+Community Development,Medium,strong_momentum_down,1,871548,13.4,100.0,0.0
+Community Development,Medium,strong_momentum_up,3,296909,35.9,66.7,0.0
+Community Development,Medium,turbulent,18,535237,26.2,55.6,100.0
+Community Development,Medium,uncategorized,3,376568,49.2,33.3,0.0
+Community Development,Medium,weak_down,2,402926,50.0,50.0,0.0
+Community Development,Medium,weak_up,3,366087,20.2,33.3,0.0
+Community Development,Micro,stable,4,31403,0.0,0.0,0.0
+Community Development,Micro,strong_momentum_down,1,6945,0.0,0.0,0.0
+Community Development,Micro,turbulent,16,186716,0.2,31.2,100.0
+Community Development,Micro,uncategorized,1,3875,0.0,0.0,0.0
+Community Development,Micro,weak_down,2,41096,0.0,0.0,0.0
+Community Development,Micro,weak_up,2,34945,0.0,50.0,0.0
+Community Development,Small,stable,3,115571,45.4,0.0,0.0
+Community Development,Small,strong_momentum_down,3,107238,33.2,66.7,0.0
+Community Development,Small,turbulent,10,181688,28.5,40.0,100.0
+Community Development,Small,uncategorized,9,166326,30.2,33.3,0.0
+Community Development,Small,weak_down,4,203765,28.3,50.0,0.0
+Community Development,Small,weak_up,3,171748,37.4,33.3,0.0
+Crime & Legal Services,Large,stable,1,1131775,0.0,100.0,0.0
+Crime & Legal Services,Large,strong_momentum_up,5,4500401,21.8,80.0,0.0
+Crime & Legal Services,Large,turbulent,3,1475685,13.5,66.7,100.0
+Crime & Legal Services,Large,weak_up,1,2601014,0.0,100.0,0.0
+Crime & Legal Services,Major,stable,1,9719835,88.2,0.0,0.0
+Crime & Legal Services,Major,weak_up,1,15165645,90.8,0.0,0.0
+Crime & Legal Services,Micro,turbulent,1,47824,0.0,0.0,100.0
+Crime & Legal Services,Small,strong_momentum_down,1,87768,0.0,100.0,0.0
+Crime & Legal Services,Small,strong_momentum_up,2,197720,34.2,50.0,0.0
+Crime & Legal Services,Small,turbulent,4,123506,25.0,50.0,100.0
+Crime & Legal Services,Small,uncategorized,1,60577,0.0,100.0,0.0
+Crime & Legal Services,Small,weak_up,1,164671,0.0,100.0,0.0
+Diseases & Disorders,Large,strong_momentum_up,2,7769064,20.0,50.0,0.0
+Diseases & Disorders,Large,turbulent,4,2974146,37.2,50.0,100.0
+Diseases & Disorders,Large,uncategorized,2,1185157,0.0,100.0,0.0
+Diseases & Disorders,Large,weak_down,3,3139485,58.9,33.3,0.0
+Diseases & Disorders,Major,strong_momentum_up,1,22961260,97.4,0.0,0.0
+Diseases & Disorders,Major,uncategorized,1,5354989,7.6,100.0,0.0
+Diseases & Disorders,Major,weak_down,1,11451985,5.4,100.0,0.0
+Diseases & Disorders,Medium,stable,1,227332,0.0,100.0,0.0
+Diseases & Disorders,Medium,turbulent,1,209267,0.0,100.0,100.0
+Diseases & Disorders,Medium,uncategorized,1,518380,0.0,100.0,0.0
+Diseases & Disorders,Medium,weak_down,2,508174,52.8,50.0,0.0
+Diseases & Disorders,Micro,turbulent,3,23490,0.0,33.3,100.0
+Diseases & Disorders,Small,strong_momentum_up,1,188342,0.0,100.0,0.0
+Diseases & Disorders,Small,uncategorized,1,66624,0.0,100.0,0.0
+Diseases & Disorders,Small,weak_up,2,154738,24.1,50.0,0.0
+Education,Large,stable,7,2994416,44.6,28.6,0.0
+Education,Large,strong_momentum_down,3,1550559,121.4,66.7,0.0
+Education,Large,strong_momentum_up,15,5648883,55.3,26.7,0.0
+Education,Large,turbulent,36,1351905,8.6,75.0,100.0
+Education,Large,uncategorized,4,1796553,41.9,50.0,0.0
+Education,Large,weak_down,5,1367015,14.6,80.0,0.0
+Education,Large,weak_up,12,3366635,40.5,50.0,0.0
+Education,Major,stable,2,260572816,62.0,0.0,0.0
+Education,Major,strong_momentum_up,12,16667784,71.4,8.3,0.0
+Education,Major,turbulent,9,13922534,37.5,55.6,100.0
+Education,Major,uncategorized,3,15438108,19.4,66.7,0.0
+Education,Major,weak_down,2,48177696,91.1,0.0,0.0
+Education,Major,weak_up,10,360012861,60.8,20.0,0.0
+Education,Medium,stable,1,507828,2.9,100.0,0.0
+Education,Medium,strong_momentum_down,5,94707,16.2,40.0,0.0
+Education,Medium,strong_momentum_up,6,465885,56.5,33.3,0.0
+Education,Medium,turbulent,45,197340,8.8,46.7,100.0
+Education,Medium,uncategorized,9,519101,16.2,77.8,0.0
+Education,Medium,weak_down,7,329426,21.9,71.4,0.0
+Education,Medium,weak_up,8,314288,44.4,37.5,0.0
+Education,Micro,stable,5,33613,0.0,40.0,0.0
+Education,Micro,strong_momentum_down,5,18260,0.0,0.0,0.0
+Education,Micro,strong_momentum_up,2,32442,0.0,0.0,0.0
+Education,Micro,turbulent,27,34262,8.2,22.2,100.0
+Education,Micro,uncategorized,8,39002,0.0,25.0,0.0
+Education,Micro,weak_down,2,16398,0.0,0.0,0.0
+Education,Micro,weak_up,3,30065,0.0,0.0,0.0
+Education,Small,stable,5,76560,1.2,60.0,0.0
+Education,Small,strong_momentum_down,5,55236,0.0,60.0,0.0
+Education,Small,strong_momentum_up,4,92462,0.0,100.0,0.0
+Education,Small,turbulent,45,38323,3.8,24.4,100.0
+Education,Small,uncategorized,12,70949,0.1,66.7,0.0
+Education,Small,weak_down,9,98525,11.5,66.7,0.0
+Education,Small,weak_up,4,96010,0.2,50.0,0.0
+Employment,Large,strong_momentum_down,1,2178653,82.1,0.0,0.0
+Employment,Large,strong_momentum_up,2,1400064,41.6,50.0,0.0
+Employment,Large,turbulent,4,3511854,30.4,50.0,100.0
+Employment,Large,uncategorized,2,5040779,50.2,50.0,0.0
+Employment,Large,weak_down,1,3749942,100.0,0.0,0.0
+Employment,Large,weak_up,2,4121510,59.0,0.0,0.0
+Employment,Major,stable,1,7941089,86.4,0.0,0.0
+Employment,Major,weak_down,2,3766410,79.2,0.0,0.0
+Employment,Major,weak_up,1,66101828,80.5,0.0,0.0
+Employment,Medium,turbulent,4,310064,25.0,50.0,100.0
+Employment,Medium,weak_down,1,724287,15.9,100.0,0.0
+Employment,Micro,stable,3,30247,0.0,0.0,0.0
+Employment,Micro,strong_momentum_down,1,5590,0.0,0.0,0.0
+Employment,Micro,turbulent,7,58385,0.0,28.6,100.0
+Employment,Micro,uncategorized,1,11561,0.0,0.0,0.0
+Employment,Micro,weak_down,1,50216,0.0,100.0,0.0
+Employment,Small,turbulent,1,163,0.0,0.0,100.0
+Employment,Small,weak_up,1,151186,0.0,100.0,0.0
+Environment,Large,stable,2,2084470,3.4,100.0,0.0
+Environment,Large,strong_momentum_up,3,3913340,7.5,100.0,0.0
+Environment,Large,turbulent,3,1628137,30.8,66.7,100.0
+Environment,Large,uncategorized,2,1706771,0.7,100.0,0.0
+Environment,Large,weak_down,3,1393164,38.9,33.3,0.0
+Environment,Large,weak_up,4,2566404,18.5,50.0,0.0
+Environment,Major,stable,1,17828272,27.3,0.0,0.0
+Environment,Major,strong_momentum_up,1,938758,0.0,100.0,0.0
+Environment,Major,turbulent,1,4780850,6.4,100.0,100.0
+Environment,Major,weak_up,1,26481834,16.2,100.0,0.0
+Environment,Medium,stable,1,284448,0.0,100.0,0.0
+Environment,Medium,strong_momentum_up,2,383314,25.9,50.0,0.0
+Environment,Medium,turbulent,5,816126,0.9,100.0,100.0
+Environment,Medium,uncategorized,1,677150,13.4,100.0,0.0
+Environment,Medium,weak_down,1,1387298,4.2,100.0,0.0
+Environment,Medium,weak_up,1,763841,36.6,0.0,0.0
+Environment,Micro,turbulent,4,87131,0.0,25.0,100.0
+Environment,Small,stable,1,141556,0.0,100.0,0.0
+Environment,Small,strong_momentum_down,1,67742,0.0,100.0,0.0
+Environment,Small,turbulent,2,195638,0.0,100.0,100.0
+Environment,Small,uncategorized,1,270152,0.0,100.0,0.0
+Environment,Small,weak_up,1,95857,0.9,100.0,0.0
+Food & Nutrition,Large,turbulent,1,1877103,15.8,100.0,100.0
+Food & Nutrition,Large,weak_up,1,3015814,64.5,0.0,0.0
+Food & Nutrition,Major,turbulent,1,16669299,1.4,100.0,100.0
+Food & Nutrition,Major,uncategorized,1,70996227,3.1,100.0,0.0
+Food & Nutrition,Medium,uncategorized,1,124151,0.0,100.0,0.0
+Food & Nutrition,Medium,weak_up,1,391827,58.6,0.0,0.0
+Food & Nutrition,Micro,strong_momentum_up,1,37222,0.0,0.0,0.0
+Food & Nutrition,Small,stable,2,79216,0.0,50.0,0.0
+Food & Nutrition,Small,strong_momentum_up,1,124736,0.0,100.0,0.0
+Food & Nutrition,Small,turbulent,1,64827,0.0,100.0,100.0
+Food & Nutrition,Small,uncategorized,1,65101,0.0,100.0,0.0
+Food & Nutrition,Small,weak_down,1,99671,0.0,100.0,0.0
+Food & Nutrition,Small,weak_up,2,132939,0.0,100.0,0.0
+Health,Large,stable,8,4305231,77.9,12.5,0.0
+Health,Large,strong_momentum_down,3,2727540,99.9,0.0,0.0
+Health,Large,strong_momentum_up,9,3476986,55.5,33.3,0.0
+Health,Large,turbulent,24,2224258,11.0,66.7,100.0
+Health,Large,uncategorized,8,3224610,52.1,25.0,0.0
+Health,Large,weak_down,6,2246758,78.1,16.7,0.0
+Health,Large,weak_up,5,5572992,80.3,0.0,0.0
+Health,Major,stable,8,60434806,84.6,12.5,0.0
+Health,Major,strong_momentum_up,12,156493576,62.1,25.0,0.0
+Health,Major,turbulent,7,175767197,34.4,42.9,100.0
+Health,Major,weak_down,2,16371824,76.6,0.0,0.0
+Health,Major,weak_up,10,206739849,72.4,10.0,0.0
+Health,Medium,stable,2,473372,99.8,0.0,0.0
+Health,Medium,strong_momentum_down,1,357193,81.5,0.0,0.0
+Health,Medium,strong_momentum_up,3,445228,66.4,33.3,0.0
+Health,Medium,turbulent,7,244749,11.8,28.6,100.0
+Health,Medium,uncategorized,2,511357,46.4,50.0,0.0
+Health,Medium,weak_down,2,191548,20.8,50.0,0.0
+Health,Medium,weak_up,3,529315,64.1,33.3,0.0
+Health,Micro,strong_momentum_down,2,24819,0.0,0.0,0.0
+Health,Micro,turbulent,5,8916,3.0,0.0,100.0
+Health,Small,stable,3,292506,25.5,66.7,0.0
+Health,Small,turbulent,14,59587,0.0,42.9,100.0
+Health,Small,uncategorized,5,114835,18.7,60.0,0.0
+Health,Small,weak_down,2,151476,0.0,100.0,0.0
+Health,Unknown,stable,3,15049357,44.0,33.3,0.0
+Health,Unknown,strong_momentum_down,1,105892952,100.1,0.0,0.0
+Health,Unknown,turbulent,4,370931,35.9,50.0,100.0
+Health,Unknown,weak_down,1,81729669,98.0,0.0,0.0
+Health,Unknown,weak_up,2,99067472,97.4,0.0,0.0
+Housing & Shelter,Large,stable,7,3619273,50.7,28.6,0.0
+Housing & Shelter,Large,strong_momentum_down,1,1205694,106.9,0.0,0.0
+Housing & Shelter,Large,strong_momentum_up,1,1509411,31.0,0.0,0.0
+Housing & Shelter,Large,turbulent,7,6896953,27.2,42.9,100.0
+Housing & Shelter,Large,uncategorized,2,4228412,43.9,50.0,0.0
+Housing & Shelter,Large,weak_down,2,4519398,87.2,0.0,0.0
+Housing & Shelter,Large,weak_up,3,1428792,51.7,0.0,0.0
+Housing & Shelter,Major,strong_momentum_up,1,53030433,86.8,0.0,0.0
+Housing & Shelter,Major,turbulent,1,143852778,2.2,100.0,100.0
+Housing & Shelter,Major,uncategorized,1,28006260,91.7,0.0,0.0
+Housing & Shelter,Major,weak_up,2,17976894,65.2,0.0,0.0
+Housing & Shelter,Medium,stable,4,467693,28.4,0.0,0.0
+Housing & Shelter,Medium,strong_momentum_down,1,696153,54.2,0.0,0.0
+Housing & Shelter,Medium,strong_momentum_up,3,450212,46.7,33.3,0.0
+Housing & Shelter,Medium,turbulent,4,263831,62.2,25.0,100.0
+Housing & Shelter,Medium,weak_down,1,828746,0.0,100.0,0.0
+Housing & Shelter,Medium,weak_up,15,375002,57.5,0.0,0.0
+Housing & Shelter,Micro,strong_momentum_down,1,1,0.0,0.0,0.0
+Housing & Shelter,Micro,strong_momentum_up,1,124,0.0,0.0,0.0
+Housing & Shelter,Micro,turbulent,8,15738,5.5,12.5,100.0
+Housing & Shelter,Micro,uncategorized,1,44927,0.0,0.0,0.0
+Housing & Shelter,Micro,weak_down,1,3291,0.0,0.0,0.0
+Housing & Shelter,Small,stable,3,119942,41.9,0.0,0.0
+Housing & Shelter,Small,strong_momentum_up,4,101479,63.4,0.0,0.0
+Housing & Shelter,Small,turbulent,6,107550,20.0,33.3,100.0
+Housing & Shelter,Small,uncategorized,1,53501,100.0,0.0,0.0
+Housing & Shelter,Small,weak_down,6,102816,31.6,16.7,0.0
+Housing & Shelter,Small,weak_up,9,231540,61.0,0.0,0.0
+Human Services,Large,stable,12,4142664,35.8,33.3,0.0
+Human Services,Large,strong_momentum_down,3,2311661,19.7,66.7,0.0
+Human Services,Large,strong_momentum_up,18,3837774,52.3,38.9,0.0
+Human Services,Large,turbulent,29,2059394,25.6,62.1,100.0
+Human Services,Large,uncategorized,8,2884291,12.3,75.0,0.0
+Human Services,Large,weak_down,3,1771737,64.7,0.0,0.0
+Human Services,Large,weak_up,12,3186884,34.4,66.7,0.0
+Human Services,Major,stable,4,34061590,62.2,25.0,0.0
+Human Services,Major,strong_momentum_down,2,34884290,49.9,0.0,0.0
+Human Services,Major,strong_momentum_up,6,18908404,18.9,66.7,0.0
+Human Services,Major,turbulent,2,24853221,10.2,50.0,100.0
+Human Services,Major,uncategorized,2,17173561,21.9,50.0,0.0
+Human Services,Major,weak_down,2,19280236,79.3,0.0,0.0
+Human Services,Major,weak_up,9,24427134,66.9,22.2,0.0
+Human Services,Medium,stable,3,671334,28.2,33.3,0.0
+Human Services,Medium,strong_momentum_down,2,346504,0.0,100.0,0.0
+Human Services,Medium,strong_momentum_up,4,457066,9.5,75.0,0.0
+Human Services,Medium,turbulent,18,548857,11.7,66.7,100.0
+Human Services,Medium,uncategorized,4,233146,29.4,25.0,0.0
+Human Services,Medium,weak_down,2,438011,2.2,100.0,0.0
+Human Services,Medium,weak_up,7,537711,47.6,28.6,0.0
+Human Services,Micro,stable,1,34982,0.0,0.0,0.0
+Human Services,Micro,strong_momentum_down,5,46169,0.0,40.0,0.0
+Human Services,Micro,turbulent,11,14648,0.0,9.1,100.0
+Human Services,Micro,uncategorized,2,27216,0.0,0.0,0.0
+Human Services,Micro,weak_down,3,319031,26.1,66.7,0.0
+Human Services,Small,stable,4,80858,1.2,100.0,0.0
+Human Services,Small,strong_momentum_down,2,117216,89.0,0.0,0.0
+Human Services,Small,strong_momentum_up,6,144011,6.6,66.7,0.0
+Human Services,Small,turbulent,14,99061,9.0,50.0,100.0
+Human Services,Small,uncategorized,7,86935,42.9,57.1,0.0
+Human Services,Small,weak_down,1,158250,0.0,100.0,0.0
+Human Services,Small,weak_up,1,71207,34.2,0.0,0.0
+International Relief,Large,turbulent,1,708371,0.0,100.0,100.0
+International Relief,Large,uncategorized,1,5524477,0.0,100.0,0.0
+International Relief,Large,weak_down,1,713489,0.6,100.0,0.0
+International Relief,Large,weak_up,2,4473384,4.4,100.0,0.0
+International Relief,Major,strong_momentum_up,1,109499397,0.4,100.0,0.0
+International Relief,Medium,turbulent,3,339328,1.4,100.0,100.0
+International Relief,Medium,uncategorized,4,396686,1.2,100.0,0.0
+International Relief,Medium,weak_down,3,390381,17.3,66.7,0.0
+International Relief,Micro,turbulent,5,16398,0.0,0.0,100.0
+International Relief,Micro,uncategorized,1,51829,0.0,100.0,0.0
+International Relief,Small,stable,1,313834,0.0,100.0,0.0
+International Relief,Small,strong_momentum_down,1,144839,48.9,0.0,0.0
+International Relief,Small,strong_momentum_up,1,186200,0.0,100.0,0.0
+International Relief,Small,turbulent,3,73651,35.1,0.0,100.0
+International Relief,Small,uncategorized,1,45627,0.0,0.0,0.0
+International Relief,Small,weak_down,2,211688,17.0,50.0,0.0
+International Relief,Small,weak_up,1,219854,38.2,0.0,0.0
+Medical Research,Large,uncategorized,1,4828708,59.3,0.0,0.0
+Medical Research,Large,weak_down,1,4560258,100.0,0.0,0.0
+Medical Research,Major,turbulent,1,10174404,0.0,100.0,100.0
+Medical Research,Major,uncategorized,1,33104378,78.6,0.0,0.0
+Medical Research,Major,weak_up,1,28950325,0.0,100.0,0.0
+Medical Research,Medium,stable,1,552085,84.0,0.0,0.0
+Medical Research,Medium,turbulent,1,411112,16.2,100.0,100.0
+Medical Research,Micro,strong_momentum_down,1,26271,0.0,0.0,0.0
+Medical Research,Micro,turbulent,1,518790,0.0,100.0,100.0
+Medical Research,Micro,weak_down,1,34476,0.0,0.0,0.0
+Medical Research,Small,stable,1,205029,35.4,0.0,0.0
+Medical Research,Small,strong_momentum_down,1,43650,0.0,0.0,0.0
+Medical Research,Small,turbulent,1,73750,0.0,100.0,100.0
+Mental Health & Crisis,Large,stable,1,2579285,95.3,0.0,0.0
+Mental Health & Crisis,Large,strong_momentum_up,4,4096670,32.8,50.0,0.0
+Mental Health & Crisis,Large,turbulent,6,4367245,77.0,16.7,100.0
+Mental Health & Crisis,Large,uncategorized,1,1016857,85.8,0.0,0.0
+Mental Health & Crisis,Large,weak_down,2,1071056,54.6,0.0,0.0
+Mental Health & Crisis,Large,weak_up,1,3711747,88.3,0.0,0.0
+Mental Health & Crisis,Major,stable,2,23082212,79.9,0.0,0.0
+Mental Health & Crisis,Major,weak_down,1,25691393,63.5,0.0,0.0
+Mental Health & Crisis,Medium,stable,1,834243,0.2,100.0,0.0
+Mental Health & Crisis,Medium,strong_momentum_down,1,378702,81.8,0.0,0.0
+Mental Health & Crisis,Medium,turbulent,2,181676,4.2,100.0,100.0
+Mental Health & Crisis,Medium,weak_down,1,479882,4.8,100.0,0.0
+Mental Health & Crisis,Micro,strong_momentum_down,1,37616,0.0,0.0,0.0
+Mental Health & Crisis,Micro,turbulent,2,32696,0.0,50.0,100.0
+Mental Health & Crisis,Small,turbulent,1,138747,0.0,100.0,100.0
+Mental Health & Crisis,Small,weak_down,1,76848,35.3,0.0,0.0
+Mutual Benefit,Large,stable,3,2779567,67.7,0.0,0.0
+Mutual Benefit,Large,strong_momentum_down,2,1091658,34.3,50.0,0.0
+Mutual Benefit,Large,turbulent,14,1667550,29.8,50.0,100.0
+Mutual Benefit,Large,uncategorized,2,2380303,97.8,0.0,0.0
+Mutual Benefit,Large,weak_down,1,1104339,90.6,0.0,0.0
+Mutual Benefit,Large,weak_up,1,1121497,90.3,0.0,0.0
+Mutual Benefit,Major,stable,3,163914724,82.6,0.0,0.0
+Mutual Benefit,Major,strong_momentum_down,2,6515760,34.5,0.0,0.0
+Mutual Benefit,Major,turbulent,15,101838527,33.2,53.3,100.0
+Mutual Benefit,Major,uncategorized,4,8337956,54.0,25.0,0.0
+Mutual Benefit,Major,weak_down,1,7905137,98.4,0.0,0.0
+Mutual Benefit,Major,weak_up,3,39780860,61.8,0.0,0.0
+Mutual Benefit,Medium,stable,1,86404,26.8,0.0,0.0
+Mutual Benefit,Medium,strong_momentum_down,1,83959,119.1,0.0,0.0
+Mutual Benefit,Medium,strong_momentum_up,1,292537,72.0,0.0,0.0
+Mutual Benefit,Medium,turbulent,3,70939,35.7,33.3,100.0
+Mutual Benefit,Medium,uncategorized,1,295353,48.3,0.0,0.0
+Mutual Benefit,Medium,weak_up,2,598708,39.4,0.0,0.0
+Mutual Benefit,Micro,strong_momentum_down,2,38,0.0,0.0,0.0
+Mutual Benefit,Micro,turbulent,12,9744,9.1,0.0,100.0
+Mutual Benefit,Micro,weak_up,1,14913,0.0,0.0,0.0
+Mutual Benefit,Small,stable,1,250892,100.0,0.0,0.0
+Mutual Benefit,Small,strong_momentum_up,1,28343,0.0,0.0,0.0
+Mutual Benefit,Small,turbulent,5,127961,23.4,20.0,100.0
+Philanthropy & Foundations,Large,stable,8,1471085,0.0,100.0,0.0
+Philanthropy & Foundations,Large,strong_momentum_down,7,355163,10.8,85.7,0.0
+Philanthropy & Foundations,Large,strong_momentum_up,13,941942,0.4,100.0,0.0
+Philanthropy & Foundations,Large,turbulent,187,665485,0.0,67.4,100.0
+Philanthropy & Foundations,Large,uncategorized,13,559547,0.0,92.3,0.0
+Philanthropy & Foundations,Large,weak_down,6,726820,16.3,83.3,0.0
+Philanthropy & Foundations,Large,weak_up,10,616429,0.2,100.0,0.0
+Philanthropy & Foundations,Major,stable,1,3388175,0.0,100.0,0.0
+Philanthropy & Foundations,Major,strong_momentum_down,1,1718874,0.0,100.0,0.0
+Philanthropy & Foundations,Major,strong_momentum_up,5,39815364,0.4,100.0,0.0
+Philanthropy & Foundations,Major,turbulent,17,13026033,0.1,94.1,100.0
+Philanthropy & Foundations,Major,uncategorized,2,2315362,3.6,100.0,0.0
+Philanthropy & Foundations,Major,weak_down,3,4875859,29.6,66.7,0.0
+Philanthropy & Foundations,Major,weak_up,6,25341539,2.4,100.0,0.0
+Philanthropy & Foundations,Medium,stable,2,278210,0.0,50.0,0.0
+Philanthropy & Foundations,Medium,strong_momentum_down,8,73986,0.0,50.0,0.0
+Philanthropy & Foundations,Medium,strong_momentum_up,13,245374,0.0,100.0,0.0
+Philanthropy & Foundations,Medium,turbulent,231,66930,0.0,31.6,100.0
+Philanthropy & Foundations,Medium,uncategorized,15,136853,0.0,66.7,0.0
+Philanthropy & Foundations,Medium,weak_down,4,197700,0.0,100.0,0.0
+Philanthropy & Foundations,Medium,weak_up,6,110814,0.0,83.3,0.0
+Philanthropy & Foundations,Micro,stable,6,9961,0.0,0.0,0.0
+Philanthropy & Foundations,Micro,strong_momentum_down,1,17972,0.0,0.0,0.0
+Philanthropy & Foundations,Micro,strong_momentum_up,3,44131,0.0,33.3,0.0
+Philanthropy & Foundations,Micro,turbulent,104,19000,0.0,7.7,100.0
+Philanthropy & Foundations,Micro,uncategorized,4,14632,0.0,0.0,0.0
+Philanthropy & Foundations,Micro,weak_down,7,19869,0.0,0.0,0.0
+Philanthropy & Foundations,Micro,weak_up,18,18985,0.0,11.1,0.0
+Philanthropy & Foundations,Small,stable,7,40487,0.0,42.9,0.0
+Philanthropy & Foundations,Small,strong_momentum_down,4,19995,0.0,25.0,0.0
+Philanthropy & Foundations,Small,strong_momentum_up,1,6471,0.0,0.0,0.0
+Philanthropy & Foundations,Small,turbulent,234,26961,0.6,15.4,100.0
+Philanthropy & Foundations,Small,uncategorized,10,56275,3.7,30.0,0.0
+Philanthropy & Foundations,Small,weak_down,5,45816,0.0,40.0,0.0
+Philanthropy & Foundations,Small,weak_up,4,158950,0.0,100.0,0.0
+Public Benefit,Large,stable,1,1518157,3.4,100.0,0.0
+Public Benefit,Large,turbulent,1,126425,0.0,100.0,100.0
+Public Benefit,Large,weak_down,2,3127358,78.4,0.0,0.0
+Public Benefit,Large,weak_up,1,1889170,85.6,0.0,0.0
+Public Benefit,Major,turbulent,1,3235663,0.0,100.0,100.0
+Public Benefit,Major,weak_up,1,10173702,28.0,0.0,0.0
+Public Benefit,Medium,stable,1,365591,0.6,100.0,0.0
+Public Benefit,Medium,strong_momentum_up,1,610275,0.0,100.0,0.0
+Public Benefit,Medium,turbulent,3,399791,0.0,66.7,100.0
+Public Benefit,Medium,weak_down,2,241226,38.0,50.0,0.0
+Public Benefit,Micro,strong_momentum_down,2,40100,6.6,50.0,0.0
+Public Benefit,Micro,turbulent,5,12992,0.0,0.0,100.0
+Public Benefit,Micro,uncategorized,1,35827,0.0,0.0,0.0
+Public Benefit,Small,stable,1,52301,0.0,100.0,0.0
+Public Benefit,Small,strong_momentum_down,1,415,0.0,0.0,0.0
+Public Benefit,Small,strong_momentum_up,1,781266,94.3,0.0,0.0
+Public Benefit,Small,turbulent,4,136705,0.9,75.0,100.0
+Public Benefit,Small,uncategorized,1,28416,0.0,0.0,0.0
+Public Benefit,Small,weak_down,2,111460,0.0,100.0,0.0
+Public Safety,Large,strong_momentum_up,4,1378430,53.7,25.0,0.0
+Public Safety,Large,turbulent,1,871046,50.4,0.0,100.0
+Public Safety,Large,uncategorized,1,1189796,75.1,0.0,0.0
+Public Safety,Large,weak_up,1,1593486,78.0,0.0,0.0
+Public Safety,Medium,stable,5,240660,33.2,60.0,0.0
+Public Safety,Medium,strong_momentum_down,1,440300,0.1,100.0,0.0
+Public Safety,Medium,strong_momentum_up,2,459751,38.8,50.0,0.0
+Public Safety,Medium,turbulent,9,327728,1.7,100.0,100.0
+Public Safety,Medium,uncategorized,5,215772,10.7,80.0,0.0
+Public Safety,Medium,weak_down,1,281898,50.8,0.0,0.0
+Public Safety,Medium,weak_up,4,269564,0.0,100.0,0.0
+Public Safety,Micro,stable,1,25814,0.0,0.0,0.0
+Public Safety,Micro,turbulent,2,4172,0.0,0.0,100.0
+Public Safety,Micro,weak_down,1,39715,0.0,0.0,0.0
+Public Safety,Small,stable,1,111984,0.0,100.0,0.0
+Public Safety,Small,strong_momentum_up,2,150039,0.0,100.0,0.0
+Public Safety,Small,turbulent,11,128172,0.6,90.9,100.0
+Public Safety,Small,uncategorized,4,111041,0.0,100.0,0.0
+Public Safety,Small,weak_up,5,150303,9.1,80.0,0.0
+Recreation & Sports,Large,stable,1,1089200,90.9,0.0,0.0
+Recreation & Sports,Large,strong_momentum_down,1,141723,0.0,100.0,0.0
+Recreation & Sports,Large,strong_momentum_up,2,2574740,93.4,0.0,0.0
+Recreation & Sports,Large,turbulent,4,819652,21.2,75.0,100.0
+Recreation & Sports,Large,uncategorized,2,2949079,11.8,50.0,0.0
+Recreation & Sports,Large,weak_down,2,3636133,73.1,0.0,0.0
+Recreation & Sports,Large,weak_up,5,1726089,95.8,0.0,0.0
+Recreation & Sports,Medium,stable,1,275823,7.3,100.0,0.0
+Recreation & Sports,Medium,strong_momentum_down,1,209678,91.6,0.0,0.0
+Recreation & Sports,Medium,strong_momentum_up,3,481639,65.5,33.3,0.0
+Recreation & Sports,Medium,turbulent,3,297882,63.1,0.0,100.0
+Recreation & Sports,Medium,uncategorized,1,251573,99.4,0.0,0.0
+Recreation & Sports,Medium,weak_down,1,136437,1.5,100.0,0.0
+Recreation & Sports,Medium,weak_up,1,411820,27.6,0.0,0.0
+Recreation & Sports,Micro,stable,1,60371,0.0,100.0,0.0
+Recreation & Sports,Micro,strong_momentum_down,2,17482,0.0,0.0,0.0
+Recreation & Sports,Micro,strong_momentum_up,2,171379,0.0,100.0,0.0
+Recreation & Sports,Micro,turbulent,4,394119,0.0,25.0,100.0
+Recreation & Sports,Micro,uncategorized,7,52205,3.2,28.6,0.0
+Recreation & Sports,Micro,weak_down,1,28528,0.0,0.0,0.0
+Recreation & Sports,Micro,weak_up,4,36356,0.0,25.0,0.0
+Recreation & Sports,Small,stable,10,116992,8.3,90.0,0.0
+Recreation & Sports,Small,strong_momentum_down,3,103984,0.0,100.0,0.0
+Recreation & Sports,Small,strong_momentum_up,8,127614,0.0,100.0,0.0
+Recreation & Sports,Small,turbulent,5,195105,34.1,60.0,100.0
+Recreation & Sports,Small,uncategorized,19,105071,21.5,73.7,0.0
+Recreation & Sports,Small,weak_down,10,89242,8.1,80.0,0.0
+Recreation & Sports,Small,weak_up,9,136474,0.8,100.0,0.0
+Recreation & Sports,Unknown,uncategorized,1,59124,0.0,100.0,0.0
+Religion,Large,strong_momentum_down,1,4892228,32.1,0.0,0.0
+Religion,Large,strong_momentum_up,2,420108,0.0,100.0,0.0
+Religion,Large,turbulent,6,1391169,16.6,83.3,100.0
+Religion,Large,weak_down,2,566708,45.0,50.0,0.0
+Religion,Large,weak_up,2,2668054,8.1,100.0,0.0
+Religion,Major,strong_momentum_up,1,5976073,11.4,100.0,0.0
+Religion,Major,turbulent,1,14963201,0.0,100.0,100.0
+Religion,Medium,stable,2,441328,19.9,50.0,0.0
+Religion,Medium,strong_momentum_up,1,436093,0.0,100.0,0.0
+Religion,Medium,turbulent,12,285333,6.6,58.3,100.0
+Religion,Medium,weak_down,2,375760,0.0,100.0,0.0
+Religion,Micro,stable,1,8642,0.0,0.0,0.0
+Religion,Micro,strong_momentum_down,1,24589,0.0,0.0,0.0
+Religion,Micro,strong_momentum_up,1,11783,0.0,0.0,0.0
+Religion,Micro,turbulent,3,8448,0.0,0.0,100.0
+Religion,Micro,uncategorized,2,38271,0.0,50.0,0.0
+Religion,Micro,weak_down,3,28108,0.0,0.0,0.0
+Religion,Micro,weak_up,1,30259,0.0,0.0,0.0
+Religion,Small,stable,3,69570,0.0,66.7,0.0
+Religion,Small,strong_momentum_down,2,142908,0.0,100.0,0.0
+Religion,Small,strong_momentum_up,1,193170,0.0,100.0,0.0
+Religion,Small,turbulent,13,114278,16.6,15.4,100.0
+Religion,Small,uncategorized,2,133707,0.0,100.0,0.0
+Religion,Small,weak_down,2,66167,0.0,50.0,0.0
+Science & Technology,Large,strong_momentum_down,1,-918807,,0.0,0.0
+Science & Technology,Large,strong_momentum_up,1,8922086,17.6,100.0,0.0
+Science & Technology,Large,weak_down,1,7580466,55.2,0.0,0.0
+Science & Technology,Large,weak_up,1,1237213,0.0,100.0,0.0
+Science & Technology,Major,turbulent,1,23365841,0.0,100.0,100.0
+Science & Technology,Major,weak_up,1,9508026,98.9,0.0,0.0
+Science & Technology,Medium,turbulent,1,103253,0.0,100.0,100.0
+Science & Technology,Micro,turbulent,4,13964,0.0,0.0,100.0
+Social Science Research,Large,stable,1,1654136,43.6,0.0,0.0
+Social Science Research,Large,strong_momentum_up,1,403159,0.0,100.0,0.0
+Social Science Research,Large,weak_down,1,2983030,24.1,0.0,0.0
+Social Science Research,Small,turbulent,1,-942874,,0.0,100.0
+Unknown,Large,stable,39,2139833,50.5,43.6,0.0
+Unknown,Large,strong_momentum_down,16,1387152,22.0,62.5,0.0
+Unknown,Large,strong_momentum_up,28,2055927,21.6,64.3,0.0
+Unknown,Large,turbulent,240,559422,4.2,56.2,100.0
+Unknown,Large,uncategorized,40,1093933,17.0,75.0,0.0
+Unknown,Large,weak_down,41,1740431,35.9,56.1,0.0
+Unknown,Large,weak_up,54,2213371,44.7,40.7,0.0
+Unknown,Major,stable,26,88818567,69.8,23.1,0.0
+Unknown,Major,strong_momentum_down,4,2056153,45.4,50.0,0.0
+Unknown,Major,strong_momentum_up,18,1477558065,54.7,38.9,0.0
+Unknown,Major,turbulent,50,13435272,10.5,68.0,100.0
+Unknown,Major,uncategorized,7,6266667,4.4,85.7,0.0
+Unknown,Major,weak_down,20,17249638,57.3,45.0,0.0
+Unknown,Major,weak_up,16,189843689,70.2,12.5,0.0
+Unknown,Medium,stable,37,339461,30.8,32.4,0.0
+Unknown,Medium,strong_momentum_down,16,325751,46.7,56.2,0.0
+Unknown,Medium,strong_momentum_up,44,375751,24.0,61.4,0.0
+Unknown,Medium,turbulent,440,69396,27.0,23.9,100.0
+Unknown,Medium,uncategorized,49,265595,29.7,59.2,0.0
+Unknown,Medium,weak_down,38,311072,33.0,50.0,0.0
+Unknown,Medium,weak_up,38,437362,32.5,44.7,0.0
+Unknown,Micro,stable,36,22154,5.1,8.3,0.0
+Unknown,Micro,strong_momentum_down,28,15884,2.5,7.1,0.0
+Unknown,Micro,strong_momentum_up,19,20091,0.1,10.5,0.0
+Unknown,Micro,turbulent,306,28819,0.8,6.2,100.0
+Unknown,Micro,uncategorized,26,40609,4.5,0.0,0.0
+Unknown,Micro,weak_down,27,34167,1.4,18.5,0.0
+Unknown,Micro,weak_up,119,1412181,0.7,7.6,0.0
+Unknown,Small,stable,37,108790,22.0,56.8,0.0
+Unknown,Small,strong_momentum_down,27,247026,13.9,51.9,0.0
+Unknown,Small,strong_momentum_up,20,119271,6.4,80.0,0.0
+Unknown,Small,turbulent,567,22628,2.0,13.6,100.0
+Unknown,Small,uncategorized,62,100212,9.7,66.1,0.0
+Unknown,Small,weak_down,44,109135,13.5,65.9,0.0
+Unknown,Small,weak_up,54,124215,12.1,75.9,0.0
+Unknown,Unknown,uncategorized,1,319987,0.0,100.0,0.0
+Youth Development,Large,strong_momentum_up,5,3305577,10.5,80.0,0.0
+Youth Development,Large,turbulent,3,1648955,0.9,100.0,100.0
+Youth Development,Large,uncategorized,1,2210139,15.3,100.0,0.0
+Youth Development,Large,weak_down,1,1860496,0.0,100.0,0.0
+Youth Development,Major,stable,1,10713817,4.1,100.0,0.0
+Youth Development,Medium,strong_momentum_down,1,200636,17.6,100.0,0.0
+Youth Development,Medium,strong_momentum_up,2,449478,30.5,0.0,0.0
+Youth Development,Medium,turbulent,5,397951,7.3,80.0,100.0
+Youth Development,Medium,uncategorized,1,127327,0.0,100.0,0.0
+Youth Development,Medium,weak_down,1,259992,97.1,0.0,0.0
+Youth Development,Medium,weak_up,1,285236,41.7,0.0,0.0
+Youth Development,Micro,strong_momentum_down,1,133883,77.8,0.0,0.0
+Youth Development,Micro,turbulent,2,291308,2.2,50.0,100.0
+Youth Development,Micro,weak_down,1,35654,0.0,0.0,0.0
+Youth Development,Micro,weak_up,1,44000,0.0,0.0,0.0
+Youth Development,Small,stable,2,75316,0.0,50.0,0.0
+Youth Development,Small,strong_momentum_up,1,64498,0.0,100.0,0.0
+Youth Development,Small,turbulent,2,334062,0.2,100.0,100.0
+Youth Development,Small,uncategorized,3,121245,0.0,100.0,0.0
+Youth Development,Small,weak_down,4,109430,25.0,25.0,0.0
