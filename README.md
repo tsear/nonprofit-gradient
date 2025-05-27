@@ -46,21 +46,6 @@ What started as a data-cleaning experiment evolved into a purpose-built sales in
 - ✅ Pre-clustered organizations using KMeans
 - ✅ Top 10 leaderboard based on priority + financial strength
 - ✅ Sector/Flag breakdown visualizations (minimal but insightful)
-
----
-
-## 📦 File Structure
-nonprofit-gradient/
-├── app/                          # Streamlit UI scripts
-│   └── ui_dashboard.py
-├── data/
-│   ├── processed/                # Final CSV used by the dashboard
-│   │   └── org_master_profiles_scored.csv
-│   └── financials_by_ein/       # (Cleaned out before push - contains individual 990 JSONs)
-├── env/                          # Local virtual environment (gitignored)
-├── README.md
-└── requirements.txt
-
 ---
 
 ## 🧰 How to Run This Yourself (Even If You're Not a Developer)
