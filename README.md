@@ -76,10 +76,10 @@ This will open the dashboard in your browser. You can apply filters, explore the
 👀 Results & Insights
 
 We found that the most actionable nonprofit leads:
-	•	Have high program-to-revenue ratios (indicating operational focus)
-	•	Sit in underrepresented sectors with strong average scores
-	•	Are financially capable (revenue > $10M) but not yet flagged internally
-	•	Exist in regional clusters that warrant geographically-focused outreach
+-- Have high program-to-revenue ratios (indicating operational focus)
+-- Sit in underrepresented sectors with strong average scores
+-- Are financially capable (revenue > $10M) but not yet flagged internally
+-- Exist in regional clusters that warrant geographically-focused outreach
 
 Over 25,000 organizations were analyzed. All scoring logic is transparent and reproducible.
 
