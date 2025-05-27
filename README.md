@@ -73,6 +73,8 @@ streamlit run app/ui_dashboard.py
 
 This will open the dashboard in your browser. You can apply filters, explore the data, and download your own lead lists.
 
+---
+
 👀 Results & Insights
 
 We found that the most actionable nonprofit leads:
