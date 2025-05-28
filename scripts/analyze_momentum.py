@@ -1,5 +1,6 @@
 import pandas as pd
 from pathlib import Path
+import numpy as np
 
 # === Load the financial timeseries ===
 df = pd.read_csv("data/processed/financial_timeseries.csv")
@@ -18,45 +19,47 @@ results = []
 # === Analyze by EIN ===
 for ein, group in df.groupby("EIN"):
     org_name = group["ORG_NAME"].iloc[0]
-    if len(group) < 5:
-        continue  # too little history to say much
+
+    # Must have at least 6 years
+    if len(group) < 6:
+        continue
 
     revs = group["REVENUE"].tolist()
     years = group["YEAR"].tolist()
 
-    # Split into recent and prior
-    if len(revs) < 6:
-        continue
-
     recent = revs[-3:]  # most recent 3 years
     prior = revs[-6:-3]  # 3 years before that
 
-    # Skip orgs with $0 or None in both periods
     if sum(recent) < 1 or sum(prior) < 1:
         continue
 
     avg_recent = sum(recent) / len(recent)
     avg_prior = sum(prior) / len(prior)
+
     pct_change = (avg_recent - avg_prior) / avg_prior
+    pct_change = round(pct_change * 100, 2)
 
-    # Raw 2-step momentum score
-    momentum_score = (recent[2] - recent[1]) + (recent[1] - recent[0])
+    # === Normalized Momentum ===
+    raw_momentum = (recent[2] - recent[1]) + (recent[1] - recent[0])
+    normalized_momentum = raw_momentum / avg_recent
+    normalized_momentum = round(normalized_momentum, 4)
 
-    # Volatility score
+    # Volatility = std / mean
     volatility = pd.Series(revs).std() / pd.Series(revs).mean()
+    volatility = round(volatility, 3)
 
     # === Classify ===
     if volatility > 0.5:
         label = "turbulent"
-    elif pct_change > 0.2 and momentum_score > 0:
+    elif pct_change > 20 and normalized_momentum > 0:
         label = "strong_momentum_up"
-    elif pct_change < -0.2 and momentum_score < 0:
+    elif pct_change < -20 and normalized_momentum < 0:
         label = "strong_momentum_down"
-    elif 0.05 < pct_change <= 0.2:
+    elif 5 < pct_change <= 20:
         label = "weak_up"
-    elif -0.2 <= pct_change < -0.05:
+    elif -20 <= pct_change < -5:
         label = "weak_down"
-    elif abs(pct_change) <= 0.05:
+    elif abs(pct_change) <= 5:
         label = "stable"
     else:
         label = "uncategorized"
@@ -66,9 +69,9 @@ for ein, group in df.groupby("EIN"):
         "ORG_NAME": org_name,
         "AVG_RECENT_REVENUE": int(avg_recent),
         "AVG_PRIOR_REVENUE": int(avg_prior),
-        "PCT_CHANGE": round(pct_change * 100, 2),
-        "MOMENTUM_SCORE": int(momentum_score),
-        "VOLATILITY": round(volatility, 2),
+        "PCT_CHANGE": pct_change,
+        "MOMENTUM_SCORE": normalized_momentum,
+        "VOLATILITY": volatility,
         "MOMENTUM_CLASS": label
     })
 
