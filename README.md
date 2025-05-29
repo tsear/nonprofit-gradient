@@ -125,3 +125,59 @@ Each filter works on its own or in combination with others:
 ```bash
 git clone https://github.com/tsear/nonprofit-gradient.git
 cd nonprofit-gradient
+```
+
+### 2. Set up a virtual environment
+
+```bash
+python3 -m venv env
+source env/bin/activate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the dashboard
+
+```bash
+streamlit run app/ui_dashboard.py
+```
+
+This will launch the dashboard in your browser where you can explore, filter, and export nonprofit leads.
+
+---
+
+## 👀 Results & Insights
+
+We found the most actionable nonprofit leads:
+
+- Operate with high program-to-revenue ratios  
+- Belong to emerging or underfunded sectors  
+- Are financially mature (>$10M revenue) but unflagged  
+- Cluster in key ZIPs indicating outreach potential
+
+Over 25,000 orgs were processed and scored.  
+All logic is reproducible and transparent.
+
+---
+
+## 👥 Authors & Contributors
+
+**Tyler Sear** – Lead engineer, analyst, and author  
+**Dayna Sear** – CEO  
+**Smart Grant Solutions** – Infrastructure + internal use case
+
+**Contact:**  
+📧 tylersear910@gmail.com  
+📧 dsear@smartgrantsolutions.com
+
+---
+
+## 🧼 Disclaimer
+
+This tool uses public IRS Form 990 filings and internal heuristics.  
+It is designed for research and prioritization—not definitive qualification.  
+Always manually validate organizations before engagement.
